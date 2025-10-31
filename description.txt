@@ -1,4 +1,4 @@
-link to the published website:
+link to the published website: https://sdassarkar.github.io/DS4200Hw3/
 
 I added a variety of stylistic changes to my website, namely:
     - changed the background color and font family of the text
